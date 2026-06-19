@@ -1,4 +1,4 @@
-This is a ticketing API i built across a day as a hobby, it's a small back-end service for booking event seats that wont oversell or accidentally books two seats at once, even if many try booking at the exact same time
+This is a ticketing API i built across 2 days as a hobby, it's a small back-end service for booking event seats that wont oversell or accidentally books two seats at once, even if many try booking at the exact same time
 
 I built this because i wanted to build a project to proove to myself that i can handle working with backend that actually can break on concurrency, anyone can write a booking endpoint that works for one person but i wanted to proove to myself that i can get past the hard question: "What if 200 book at once?"
 
